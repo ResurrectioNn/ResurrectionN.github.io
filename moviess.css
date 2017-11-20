@@ -1,0 +1,38 @@
+h1{
+	color: #E35F3B;
+	font-size: 45px;
+	text-align:center;
+}
+body{
+	background-image: url(pic/1200.jpg);
+}
+.photo{
+	width:30%;
+	float:left;
+	max-width: 100% !important;
+	height:auto;
+}
+table
+{
+	color:#ffffff
+	
+}
+.text-photo{
+	width:70%;
+	float:left;
+}
+nav ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+nav ul li{
+	display:inline;
+}
+nav ul li a{
+	padding:10px;
+	background:orange;
+	border-radius: 10px, 10px, 20px;
+	text-decoration:none;
+	color:black;
+}
